@@ -1,4 +1,5 @@
-##Hey 
+## Hey 💀
+
 My name is ##### and I am a computer science major
 
 I plan to become a Game dev and learn gereal coding

@@ -1,5 +1,9 @@
-## Hi there 👋
+##Hey 
+My name is ##### and I am a computer science major
 
+I plan to become a Game dev and learn gereal coding
+
+I hope you have a great time on my profile
 <!--
 **microsandman/microsandman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

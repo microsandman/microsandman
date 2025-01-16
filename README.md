@@ -1,8 +1,14 @@
 ## Hey 💀
 
-My name is ##### and I am a computer science major
+My name is #####/microsandman and I am a computer science major at wright state
 
-I plan to become a Game dev and learn gereal coding
+I plan to become a Game dev and learn general coding
+
+some projects I will be working on:
+
+1. Advanced Bash scripting
+  
+2. working with networking and firewalls 
 
 I hope you have a great time on my profile
 <!--

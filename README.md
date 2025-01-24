@@ -1,4 +1,4 @@
-## Hey 💀
+## Hey
 
 My name is #####/microsandman and I am a computer science major at wright state
 
